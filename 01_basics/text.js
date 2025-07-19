@@ -1,3 +1,5 @@
+//variable
+
 const accountId=12345
 let accountemail="rachittripathi07@hmail.com"
 // agar let or var me changes kar skte hai to alag alag usse kyu kar rhe hain
